@@ -28,3 +28,5 @@ Projenin genel blok diyagramı:
 
 Projenin genel akış diyagramı:
 ![image info](./Docs/flowchart.png)
+
+*Bu proje Yıldız Teknik Üniversitesi - Bilgisayar Mühendisliği, Gömülü Sistemler dersi kapsamında yapılmıştır.
